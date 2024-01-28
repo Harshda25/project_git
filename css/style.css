@@ -1,0 +1,22 @@
+.main-icon{
+    height:80px;
+} 
+.menu{
+    background-color:tomato;
+    color:white;
+    padding:5px 10px;
+    margin:5px;
+    border-radius:10px;
+    height: 20px;
+    width: 50px;
+}
+.container{
+    height:auto;
+    width: auto;
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    padding: 5px;
+    border-radius:5px ;
+}
